@@ -5,7 +5,7 @@ RAM isn’t some toy — it’s a tool. For devs, farmers, traders, and power us
 # Roblox Account Manager — Full Control Over Your Alts
 
 > ⚠️ **Managing multiple Roblox accounts?** Forget browser tabs, manual cookies, and endless copy-pasting.  
-> **RAM** isn’t some toy — it’s a **tool**. For devs, farmers, traders, and power users who know what they’re doing.
+> **RAM** isn’t some toy — it’s a **tool**. For devs, farmers, traders, and power users who know what they’re doing
 
 ---
 
